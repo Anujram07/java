@@ -5,7 +5,7 @@ public class basic3 {
        // byte c=(int)a+b;
 
 
-       // System.out.println(10+10+"hi");
+       //System.out.println(10+10+"hi");
 
         //System.err.println("hi"+10+10);
 
@@ -13,7 +13,7 @@ public class basic3 {
     
         int a=4;
         int b=5;
-        System.out.println(a&b);
+      //  System.out.println(a&b);
     }
     
 }

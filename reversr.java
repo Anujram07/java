@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class reversr {
-    public static void main(String[] args) {
+   /*  public static void main(String[] args) {
        Scanner in = new Scanner(System.in);
                System.out.println("Enter size of Array:");
                int n=in.nextInt();
@@ -16,5 +16,7 @@ public class reversr {
                 System.out.print(arr[k]);
                }
 
-    }
+    }*/
+
+    
 }
