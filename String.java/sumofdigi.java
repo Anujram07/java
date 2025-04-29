@@ -11,7 +11,7 @@ public class sumofdigi {
         }
     
         public static void main(String[] args) {
-            int a = 5;
+            int a = 52;
             sumdigi(a);
         }
 
